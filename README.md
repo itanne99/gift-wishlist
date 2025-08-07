@@ -75,7 +75,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](./public/Gemini_Generated_Image_fzymcjfzymcjfzym.png)
 
 Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `itanne99`, `gift-wishlist`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `gift-wishlist`, `project_description`, `project_license`
 
